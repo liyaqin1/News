@@ -5,6 +5,8 @@
 /web_server/server/node_modules
 /web_server/client/node_modules
 /web_server/client/build
+/web_server/client/package-lock.json
+/web_server/server/package-lock.json
 
 # testing
 /coverage
